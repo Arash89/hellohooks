@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.background-blue {
+  color: cornflowerblue;
+  background-color: darkblue;
+  border: solid cornflowerblue 4px;
+  padding: 20px;
+  margin: 10px auto;
+  max-width: 40px;
+}
